@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  --color-primary: #e9c0e9;
+  --color-text: #fff;
+  --color-text-pry: #1e2330;
+  --color-text-2: #502274;
+  --color-text-3: #2665d6;
+
+  --color-bg-1: #254f1a;
+  --color-bg-2: #780016;
+
+  font-size: 12px;
+}
+
